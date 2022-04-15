@@ -15,10 +15,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-/**
- *
- * @author mihai.hulea
- */
+
 public class FileReadUtil {
     
     public static List<String> readAllFileLines(String file) throws IOException{

@@ -17,11 +17,7 @@ import java.util.Set;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
-/**
- * Persistena pe disc utilizand mecanismul de seralizare. Pentru a funnctiona
- * clasa Car trebuie sa implementeze interfata Serializable. 
- * @author mihai.hulea
- */
+
 public class ParkingAccessFileControl{
 
     private String working_folder="C:\\EntryCars";

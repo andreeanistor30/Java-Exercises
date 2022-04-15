@@ -14,10 +14,7 @@ import java.io.ObjectOutputStream;
 import java.util.ArrayList;
 import java.util.*;
 
-/**
- *
- * @author mihai.hulea
- */
+
 public class ParkingAccessControl {
 
     public static final int MAX_CAPACITY = 5;

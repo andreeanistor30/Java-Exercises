@@ -9,10 +9,6 @@ import java.io.File;
 import java.util.Arrays;
 import java.util.List;
 
-/**
- *
- * @author mihai.hulea
- */
 public class FilesAndFoldersUtil {
     
      public static void createFolder(String folder){

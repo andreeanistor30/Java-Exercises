@@ -8,10 +8,7 @@ package isp.lab8.carparkaccess;
 import java.io.Serializable;
 import java.util.Objects;
 
-/**
- *
- * @author mihai.hulea
- */
+
 public class Car implements Serializable {
 
     private String plateNumber;

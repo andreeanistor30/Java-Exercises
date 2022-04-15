@@ -3,11 +3,7 @@ package isp.lab2;
 import org.junit.Assert;
 import org.junit.Test;
 
-/**
- * Test class of Exercise2.
- *
- * @author Radu Miron
- */
+
 public class Exercise2Test {
     @Test
     public void testSplitEnumerationIntoWords() {

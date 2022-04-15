@@ -3,9 +3,7 @@ package isp.lab3;
 
 import java.util.logging.Logger;
 
-/**
- * @author mihai.hulea
- */
+
 public class Example {
 
     public static Logger LOG = Logger.getLogger(Example.class.getName());

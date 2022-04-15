@@ -2,11 +2,7 @@ package isp.lab2;
 
 import java.util.Scanner;
 
-/**
- * Check readme.md file for the exercise requirements.
- *
- * @author Radu Miron
- */
+
 public class Exercise2 {
     /**
      * Reads an enumeration of words separated by comma.
